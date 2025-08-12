@@ -5,3 +5,6 @@ def method():
 def trail():
     print("TRY")
 method()
+trail()
+def drink():
+    print("Drink Water")
